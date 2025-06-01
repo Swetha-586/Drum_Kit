@@ -1,27 +1,40 @@
-#🥁 Drum Kit Project  
+# 🥁 Drum Kit Project  
 
-This is a simple and interactive Drum Kit Web App built using HTML, CSS, and JavaScript. It's designed for beginners to learn how to use event listeners and audio in the browser. Each button represents a drum sound, and when clicked or a key is pressed, it plays a unique sound — just like a real drum set!
+This is a simple and interactive Drum Kit Web App built using HTML, CSS, and JavaScript. It's designed for beginners to learn how to use event listeners and audio in the browser. Each button represents a drum sound, and when clicked, it plays a unique sound — just like a real drum set!
 
-🕹️ User Interaction 
+---
 
-The app displays seven drum buttons: w, a, s, d, j, k, l.  
-When a user clicks any of the buttons or presses the keys, a corresponding drum sound is played.  
-This project demonstrates how JavaScript can control the DOM and trigger audio playback based on user actions.
+## 🎮 How It Works  
 
-🌟 Key Highlights  
-🎵 Real drum sounds for each key/button  
-🖱️ Clickable and responsive button interface  
-💻 Lightweight and fast-performing  
-🔊 Uses JavaScript's Audio object for sound  
-🎯 Ideal for beginners learning events and DOM manipulation
+The app displays seven drum buttons: **s, w, e, t, h, a, j**.  
+When a user clicks any of the buttons, a corresponding drum sound is played.  
+This project showcases how JavaScript can be used to manipulate the DOM and play audio files based on user interaction.
 
-🧰 Tools & Technologies  
-🔹 **HTML** – For building the page structure  
-🔹 **CSS** – For styling and layout  
-🔹 **JavaScript** – For interactivity and sound control  
+---
 
-🚦 Run This Project  
-1. Open the live project link below in your browser  
-👉 https://swetha-586.github.io/Drum_Kit/
+## ✨ Features  
+
+- 🎵 Plays real drum sounds on button click  
+- 🖱️ Interactive UI with clickable buttons  
+- 💻 Simple and lightweight web application  
+- 🔊 Audio playback using JavaScript's Audio object  
+- 🧠 Perfect project for beginners learning DOM and events
+
+---
+
+## 🔧 Tech Stack  
+
+- **HTML** – Structure of the page  
+- **CSS** – Styling and layout  
+- **JavaScript** – Interactivity and sound logic
+
+---
+
+## 🚀 Getting Started  
+
+1. Clone or visit the live project:  
+   👉 (https://swetha-586.github.io/Drum_Kit/)
+
+---
 
 💬 Feel free to fork this repo and enhance it further by adding more sounds or visual effects!
